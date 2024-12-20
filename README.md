@@ -6,7 +6,10 @@ Hello! I’m **Omar Elglaa**, a **Junior Data Scientist** passionate about data 
 
 ## 🚀 What I Do
 - 📊 **Data Analysis & Visualization**: Turning raw data into actionable insights with clear and impactful visuals.  
-- 🤖 **Machine Learning Models**: Designing and training predictive models to solve real-world challenges.  
+- 🤖 **Machine Learning & Deep Learning Models**: Designing and training predictive models to solve real-world challenges.
+- 🧠 **Advanced Analytics**: Working with algorithms for classification, regression, clustering, and NLP.
+- 🌐 **Application Development**: Developing scalable software solutions using Python, JavaScript, and frameworks like Flask and React.
+- 💼 **Microsoft Power Platform**: Building business solutions using tools like Power Apps, Power Automate, Dataverse, SharePoint, and more.
 
 ---
 
